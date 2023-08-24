@@ -24,10 +24,7 @@ header nav .nav-right-section {
     align-items: center;
     
 }
-nav .nav-right-section a {
-    margin-right: 10px;
-    color: #000000;
-}
+
 nav .nav-right-section .menu-icon {
     background-image: url('https://static.thenounproject.com/png/756729-200.png');
     background-repeat: no-repeat;
@@ -35,6 +32,10 @@ nav .nav-right-section .menu-icon {
     background-size: contain;
     width: 25px;
     height: 25px;
+}
+nav .nav-right-section a {
+    margin-right: 10px;
+    color: #000000;
 }
 
 nav .nav-right-section img {
@@ -46,3 +47,4 @@ main {
     margin-top: 150px;
     text-align: center;
 }
+
